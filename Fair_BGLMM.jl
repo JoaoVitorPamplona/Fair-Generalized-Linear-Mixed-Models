@@ -689,7 +689,6 @@ end
 
 
 
-# REMOVE INTERCEPT
 # nct is the size of each cluster
 
 X_train, Y_train, nct = create_data_cluster_unfair_lr(100000, 100, 42)
